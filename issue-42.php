@@ -1,3 +1,3 @@
 <?php
 
-echo "teste issue42.php";
+echo "Novo issue42 atualisando...";

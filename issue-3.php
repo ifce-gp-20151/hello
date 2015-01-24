@@ -1,3 +1,3 @@
 <?php
-	echo "Félas!!!!"
+	echo "Félas!!!!";
 ?>
